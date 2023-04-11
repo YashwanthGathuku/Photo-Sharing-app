@@ -1,0 +1,24 @@
+{
+  "name": "photosharing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashwanthGathuku/Photo-Sharing-app.git"
+  },
+  "keywords": [
+    "photosharing",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Yashwanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashwanthGathuku/Photo-Sharing-app/issues"
+  },
+  "homepage": "https://github.com/YashwanthGathuku/Photo-Sharing-app#readme"
+}
