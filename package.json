@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/YashwanthGathuku/Photo-Sharing-app/issues"
   },
-  "homepage": "https://github.com/YashwanthGathuku/Photo-Sharing-app#readme"
+  "homepage": "https://github.com/YashwanthGathuku/Photo-Sharing-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
