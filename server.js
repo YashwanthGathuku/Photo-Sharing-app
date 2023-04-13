@@ -43,7 +43,7 @@ db.sequelize
         console.log("Unable to connet Database", error);
     });
 //server
-const port = 1311;
+const port = 8080;
 app.use(express.static('public'))
 app.set("view engine", "ejs")
 
