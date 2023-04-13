@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "7032211754",
-    "database": "photos",
-    "host": "127.0.0.1",
+    "username": "MYBR2VZI3JmJAkd3",
+    "password": "BpCpVbyOxyoOGCyz",
+    "database": "mymariadb",
+    "host": "mymariadb-0mufu-mariadb.mymariadb-0mufu.svc.cluster.local",
     "dialect": "mariadb"
   },
   "test": {
-    "username": "root",
-    "password": "7032211754",
-    "database": "photos",
-    "host": "127.0.0.1",
+    "username": "MYBR2VZI3JmJAkd3",
+    "password": "BpCpVbyOxyoOGCyz",
+    "database": "mymariadb",
+    "host": "mymariadb-0mufu-mariadb.mymariadb-0mufu.svc.cluster.local",
     "dialect": "mariadb"
   },
   "production": {
-    "username": "root",
-    "password": "7032211754",
-    "database": "photos",
-    "host": "127.0.0.1",
+    "username": "MYBR2VZI3JmJAkd3",
+    "password": "BpCpVbyOxyoOGCyz",
+    "database": "mymariadb",
+    "host": "mymariadb-0mufu-mariadb.mymariadb-0mufu.svc.cluster.local",
     "dialect": "mariadb"
   }
 }
